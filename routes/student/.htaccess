@@ -7,4 +7,4 @@ RewriteBase /
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
-RewriteRule ^(.*)$ Student-Management-System/routes/student/index.php [QSA]
+RewriteRule ^(.*)$ routes/student/index.php [QSA]

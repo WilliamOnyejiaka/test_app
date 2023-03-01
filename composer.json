@@ -14,7 +14,7 @@
             "email": "williamonyejiaka08062528003@gmail.com"
         }
     ],
-    "minimum-stability": "prefer-stable",
+    "minimum-stability": "dev",
     "require": {
         "william-onyejiaka/wonder_ral_v3": "dev-main"
     }

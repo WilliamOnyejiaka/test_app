@@ -1,0 +1,21 @@
+{
+    "name": "user/student-management-system",
+    "description": "A project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Model\\": "models/",
+            "Module\\": "modules/"
+        }
+    },
+    "authors": [
+        {
+            "name": "WilliamOnyejiaka",
+            "email": "williamonyejiaka08062528003@gmail.com"
+        }
+    ],
+    "minimum-stability": "prefer-stable",
+    "require": {
+        "william-onyejiaka/wonder_ral_v3": "dev-main"
+    }
+}
